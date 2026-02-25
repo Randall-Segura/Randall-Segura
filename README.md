@@ -53,6 +53,13 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </span>
 
+<h4>Cybersecurity</h4>
+
+<span>
+<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+
+</span>
+
 ## Check out my Social Media
 
 <a href= "https://www.instagram.com/r.segura__/?hl=es">
