@@ -4,11 +4,12 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development.
+I am an advanced software engineering student. I am expanding my knowledge in both front-end and back-end development.
 - 🌱 I’m currently learning ...
   - Game Development
   - NoSQL
   - Springboot
+  - Cybersecurity
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I like working out (going have and till failure), 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
@@ -52,5 +53,4 @@ I am a computer engineering student, currently halfway through my degree. I am e
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 }
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
-</a>
+ 
