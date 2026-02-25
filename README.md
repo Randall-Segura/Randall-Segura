@@ -12,7 +12,7 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
   - Cybersecurity
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I like working out (going have and till failure), 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
+- Outside tech, 💜I like working out (going heavy and till failure), 🎮 playing videogames, 🎵 listening to music, and 🐶 taking my dogs for a walk.
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
 - 📫 Reach out to me at: <a href="yjime01@gmail.com@gmail.com">yjime01@gmail.com</a>
 
@@ -52,5 +52,5 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
 <a href= "https://www.instagram.com/r.segura__/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-}
+
  
