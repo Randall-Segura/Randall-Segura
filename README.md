@@ -37,7 +37,7 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Tinkercad-%231477D1.svg?style=for-the-badge&logo=tinkercad&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+  
 
 
 
@@ -48,7 +48,7 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
 <span>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-
+<img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
 </span>
 
 ## Check out my Social Media
