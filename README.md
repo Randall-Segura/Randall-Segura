@@ -5,6 +5,7 @@
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px">&nbsp;***About me***
 
 I am an advanced software engineering student. I am expanding my knowledge in both front-end and back-end development.
+- :technologist: I love using Software as a solution for every `Problem`.
 - 🌱 I’m currently learning ...
   - Game Development
   - NoSQL
