@@ -44,6 +44,12 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
 
 </span>
 
+<h4>Databases</h4>
+
+<span>
+
+</span>
+
 ## Check out my Social Media
 
 <a href= "https://www.instagram.com/r.segura__/?hl=es">
