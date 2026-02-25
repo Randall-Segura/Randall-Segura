@@ -12,7 +12,7 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
   - Springboot
   - Cybersecurity
   - DB Administration
-- 👯 I’m looking forward to collaborate on open source projects.
+- 👾 I’m looking forward to collaborate on open source projects.
 - :technologist: I love using Software as a solution for every `Problem`.
 - ✔ Ask me about anything, I am happy to help<br>
 - :nerd_face: Always `learning new things`.
