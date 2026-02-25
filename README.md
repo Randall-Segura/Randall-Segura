@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Randall Segura </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThrOHBxMmMzdmNxcGZ0ZGZza3I0NnZvZ3VhMXkwcTQ0cndzamNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HFbtg3SmlDx8f9g4dJ/giphy.gif" />
+<img align="right" width=300px alt="Error" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThrOHBxMmMzdmNxcGZ0ZGZza3I0NnZvZ3VhMXkwcTQ0cndzamNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HFbtg3SmlDx8f9g4dJ/giphy.gif" />
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="40px">&nbsp;***About me***
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">&nbsp;***About me***
 
 I am an advanced software engineering student. I am expanding my knowledge in both front-end and back-end development.
 
