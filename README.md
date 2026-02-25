@@ -13,7 +13,7 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
   - Cybersecurity
   - DB Administration
 - 👯 I’m looking forward to collaborate on open source projects.
-- - :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I love using Software as a solution for every `Problem`.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I like working out (going heavy and till failure), 🎮 playing videogames, 🎵 listening to music, and 🐶 taking my dogs for a walk.
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
