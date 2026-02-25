@@ -16,7 +16,7 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
 - :technologist: I love using Software as a solution for every `Problem`.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I like working out (going heavy and till failure), 🎮 playing videogames, 🎵 listening to music, and 🐶 taking my dogs for a walk.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
+- :nerd_face: Always `learning new things`.
 - 📫 Reach out to me at: <a href="yjime01@gmail.com@gmail.com">yjime01@gmail.com</a>
 
 ## My Skills Include
