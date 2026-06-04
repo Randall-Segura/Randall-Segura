@@ -13,11 +13,9 @@
 I am an advanced software engineering student. I am expanding my knowledge in both front-end and back-end development.
 
 - 🌱 I’m currently learning ...
-  - Game Development
-  - NoSQL
-  - Springboot
-  - Cybersecurity
-  - DB Administration
+  - Flutterflow / Dart
+  - ASP.NET 
+    
 - 👾 I’m looking forward to collaborate on open source projects.
 - :technologist: I love using Software as a solution for every `Problem`.
 - ✔ Ask me about anything, I am happy to help<br>
