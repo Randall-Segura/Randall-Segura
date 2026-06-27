@@ -26,7 +26,7 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
 
 ## My Skills Include
 
-<h4> Languages </h4>
+<h4>📋Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -59,7 +59,7 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
 
 </span>
 
-<h4>Databases</h4>
+<h4>💾Databases</h4>
 <span>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
