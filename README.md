@@ -34,7 +34,7 @@ I am an advanced software engineering student. I am expanding my knowledge in bo
 
 <h4>💻Backend frameworks and server-side libraries</h4>
 <span> 
-
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </span>
 
 <h4>🖥️Frontend frameworks and UI libraries </h4>
